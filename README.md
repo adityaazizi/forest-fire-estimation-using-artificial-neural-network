@@ -1,1 +1,1 @@
-# forest-fire-estimation-using-artificial-neural-networkx
+# forest-fire-estimation-using-artificial-neural-network
